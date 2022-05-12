@@ -11,6 +11,6 @@ production: sheet metal, round steel and pipes.
 
 ![Screenshot](https://github.com/mifadeev/steelCalculator/blob/main/screenshots/screeshot_1.png)
 
-![Screenshot](https://github.com/mifadeev/steelCalculator/blob/main/screenshots/screeshot_2.png)
+![Screenshot](https://github.com/mifadeev/steelCalculator/blob/main/screenshots/screenshot_2.png)
 
 ![Screenshot](https://github.com/mifadeev/steelCalculator/blob/main/screenshots/screeshot_3.png)
