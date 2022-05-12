@@ -9,8 +9,39 @@ Calculator for calculating the mass of rolled steel, depending on the dimensions
 Allows you to calculate the mass of the following most common types of rolled products in machine-building 
 production: sheet metal, round steel and pipes.
 
+
+
+### Сalculation of the mass of sheet metal
+
+
+
 ![Screenshot](https://github.com/mifadeev/steelCalculator/blob/main/screenshots/screeshot_1.png)
+
+
+
+### Сalculation of the mass of round bars
+
+
 
 ![Screenshot](https://github.com/mifadeev/steelCalculator/blob/main/screenshots/screenshot_2.png)
 
-![Screenshot](https://github.com/mifadeev/steelCalculator/blob/main/screenshots/screeshot_3.png)
+
+
+### Сalculation of the mass of rolled pipe
+
+
+
+![Screenshot](https://github.com/mifadeev/steelCalculator/blob/main/screenshots/screenshot_3.png)
+
+
+### Description
+
+The steel billet mass calculator allows you to calculate the mass of the most common types of rolled products in machine-building production: sheet steel, round steel and tubular products. This calculation is used for a rough calculation of the mass and cannot be used where high accuracy is required, since it does not take into account the steel grade, but takes the average value of the steel density. Such calculations can be used for loading and unloading operations, calculating the need for metal for production, and the like.
+
+
+### Technologies
+
+* Apache Maven 3.6.3
+* Spring Boot 2.6.3
+* Spring Web MVC 5.3.15
+* Thymeleaf 3.0.15
