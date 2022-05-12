@@ -8,3 +8,5 @@
 Calculator for calculating the mass of rolled steel, depending on the dimensions of the workpiece. 
 Allows you to calculate the mass of the following most common types of rolled products in machine-building 
 production: sheet metal, round steel and pipes.
+
+![Screenshot](https://github.com/mifadeev/Spring-Calculator/blob/main/springCalculator/Screenshot/Screenshot.png)
